@@ -22,5 +22,7 @@ Note that this will produce a slightly different FDS image when going through th
 Here are the MD5 hashes of the editor, the unmodified game, and the resulting patched game (at least for me):
 
  `e19fcb32ff02b557b55cc39d6a9377e6                Tonkachi Editor (Japan) (Unl).fds`
+ 
  `293303fe565de2333bc1e4115d38fa3f                Super Mario Bros. (Japan).fds`
+ 
  `4725ea0219c48557403019a40d3defb9                Super Mario Bros. Tonkachi.fds`
